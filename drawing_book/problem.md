@@ -1,10 +1,10 @@
 ## Cats and a Mouse
 
-**Author** ma5termind
-**Difficulty** Easy
-**Max Score** 15
+- **Author** ma5termind
+- **Difficulty** Easy
+- **Max Score** 15
 
-[You can find the problem here][https://www.hackerrank.com/challenges/cats-and-a-mouse/problem]
+https://www.hackerrank.com/challenges/cats-and-a-mouse/problem
 
 ### Problem
 
