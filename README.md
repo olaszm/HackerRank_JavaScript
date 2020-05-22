@@ -14,6 +14,7 @@
 | Staircase             | [Staircase](https://www.hackerrank.com/challenges/staircase/problem)                         | [Solution](Algorithms/warmup/staircase)             | Easy       |
 | Mini-Max Sum          | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)                   | [Solution](Algorithms/warmup/minimax_sum)           | Easy       |
 | Birthday Cake Candles | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Solution](Algorithms/warmup/birthday_cake_candles) | Easy       |
+| Diagonal Difference   | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)     | [Solution](Algorithms/warmup/diagonal_difference)   | Easy       |
 
 #### Implementation
 
@@ -27,3 +28,5 @@
 | Bon Appetit          | [Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit/problem)                              | [Solution](Algorithms/Implementation/bon_appetit)         | Easy       |
 | Sock Merchant        | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)                          | [Solution](Algorithms/Implementation/sock_merchant)       | Easy       |
 | Cat and a Mouse      | [Cat and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)                     | [Solution](Algorithms/Implementation/cat_and_mouse)       | Easy       |
+| The Hurdle Race      | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)                      | [Solution](Algorithms/Implementation/hurdle_race)         | Easy       |
+| Encryption           | [Encryption](https://www.hackerrank.com/challenges/encryption/problem)                                | [Solution](Algorithms/Implementation/encryption)          | Medium     |
