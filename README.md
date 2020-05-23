@@ -29,4 +29,6 @@
 | Sock Merchant        | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)                          | [Solution](Algorithms/Implementation/sock_merchant)       | Easy       |
 | Cat and a Mouse      | [Cat and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)                     | [Solution](Algorithms/Implementation/cat_and_mouse)       | Easy       |
 | The Hurdle Race      | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)                      | [Solution](Algorithms/Implementation/hurdle_race)         | Easy       |
+| Angry Proffesor      | [Angry Proffesor](https://www.hackerrank.com/challenges/angry-professor/problem)                      | [Solution](Algorithms/Implementation/angry_proffesor)     | Easy       |
+| Beautiful Day        | [Beautiful Day](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)           | [Solution](Algorithms/Implementation/beautiful_day)       | Easy       |
 | Encryption           | [Encryption](https://www.hackerrank.com/challenges/encryption/problem)                                | [Solution](Algorithms/Implementation/encryption)          | Medium     |
