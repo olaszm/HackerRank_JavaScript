@@ -31,4 +31,10 @@
 | The Hurdle Race      | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)                      | [Solution](Algorithms/Implementation/hurdle_race)         | Easy       |
 | Angry Proffesor      | [Angry Proffesor](https://www.hackerrank.com/challenges/angry-professor/problem)                      | [Solution](Algorithms/Implementation/angry_proffesor)     | Easy       |
 | Beautiful Day        | [Beautiful Day](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)           | [Solution](Algorithms/Implementation/beautiful_day)       | Easy       |
+| Designer PDF         | [ Designer PDF](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)                    | [Solution](Algorithms/Implementation/designer_pdf)        | Easy       |
+| Electronics Shop     | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop)                            | [Solution](Algorithms/Implementation/electronics_shop)    | Easy       |
+| Migratory Birds      | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/)                             | [Solution](Algorithms/Implementation/migratory_birds)     | Easy       |
+| Apple and Orange     | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/)                           | [Solution](Algorithms/Implementation/apple_n_orange)      | Easy       |
+| Utopian Tree         | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/)                                   | [Solution](Algorithms/Implementation/utopian_tree)        | Easy       |
 | Encryption           | [Encryption](https://www.hackerrank.com/challenges/encryption/problem)                                | [Solution](Algorithms/Implementation/encryption)          | Medium     |
+| Pairs                | [Pairs](https://www.hackerrank.com/challenges/pairs/problem)                                          | [Solution](Algorithms/Implementation/pairs)               | Medium     |
