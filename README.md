@@ -21,6 +21,7 @@
 | Name                 | Problem                                                                                               | Solution                                                   | Difficulty |
 | -------------------- | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
 | Grading Students     | [Grading Students](https://www.hackerrank.com/challenges/grading/problem)                             | [Solution](Algorithms/Implementation/grading_students)     | Easy       |
+| Find Digits          | [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)                              | [Solution](Algorithms/Implementation/find_digits)          | Easy       |
 | Breaking The Records | [Breaking The Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | [Solution](Algorithms/Implementation/breaking_the_record)  | Easy       |
 | Divisible Sum Pairs  | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)              | [Solution](Algorithms/Implementation/divisible_sum_pairs)  | Easy       |
 | Viral Advertising    | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem)                | [Solution](Algorithms/Implementation/viral_advertising)    | Easy       |
@@ -37,6 +38,7 @@
 | Apple and Orange     | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/)                           | [Solution](Algorithms/Implementation/apple_n_orange)       | Easy       |
 | Utopian Tree         | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/)                                   | [Solution](Algorithms/Implementation/utopian_tree)         | Easy       |
 | Day Of a Programmer  | [Day Of a Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)            | [Solution](Algorithms/Implementation/day_of_a_programmer)  | Easy       |
+| Counting Valleys     | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)                    | [Solution](Algorithms/Implementation/counting_valleys)     | Easy       |
 | Encryption           | [Encryption](https://www.hackerrank.com/challenges/encryption/problem)                                | [Solution](Algorithms/Implementation/encryption)           | Medium     |
 | Extra Long Factorial | [Extra Long Factorial](https://www.hackerrank.com/challenges/extra-long-factorials/problem)           | [Solution](Algorithms/Implementation/extra_long_factorial) | Medium     |
 | Pairs                | [Pairs](https://www.hackerrank.com/challenges/pairs/problem)                                          | [Solution](Algorithms/Implementation/pairs)                | Medium     |
