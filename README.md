@@ -39,6 +39,7 @@
 | Utopian Tree         | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/)                                   | [Solution](Algorithms/Implementation/utopian_tree)         | Easy       |
 | Day Of a Programmer  | [Day Of a Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)            | [Solution](Algorithms/Implementation/day_of_a_programmer)  | Easy       |
 | Counting Valleys     | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)                    | [Solution](Algorithms/Implementation/counting_valleys)     | Easy       |
+| Repeated String      | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)                      | [Solution](Algorithms/Implementation/repeated_string)      | Easy       |
 | Encryption           | [Encryption](https://www.hackerrank.com/challenges/encryption/problem)                                | [Solution](Algorithms/Implementation/encryption)           | Medium     |
 | Extra Long Factorial | [Extra Long Factorial](https://www.hackerrank.com/challenges/extra-long-factorials/problem)           | [Solution](Algorithms/Implementation/extra_long_factorial) | Medium     |
 | Pairs                | [Pairs](https://www.hackerrank.com/challenges/pairs/problem)                                          | [Solution](Algorithms/Implementation/pairs)                | Medium     |
