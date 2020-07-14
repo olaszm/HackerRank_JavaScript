@@ -40,6 +40,9 @@
 | Day Of a Programmer  | [Day Of a Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)            | [Solution](Algorithms/Implementation/day_of_a_programmer)  | Easy       |
 | Counting Valleys     | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)                    | [Solution](Algorithms/Implementation/counting_valleys)     | Easy       |
 | Repeated String      | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)                      | [Solution](Algorithms/Implementation/repeated_string)      | Easy       |
+| Lisa's Workbook      | [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem)                        | [Solution](Algorithms/Implementation/lisas_workbook)       | Easy       |
+| Jumping on Clouds    | [Jumping on Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)    | [Solution](Algorithms/Implementation/jumping_on_clouds)    | Easy       |
+| Service Lane         | [Service Lane](https://www.hackerrank.com/challenges/service-lane/problem)                            | [Solution](Algorithms/Implementation/service_lane)         | Easy       |
 | Encryption           | [Encryption](https://www.hackerrank.com/challenges/encryption/problem)                                | [Solution](Algorithms/Implementation/encryption)           | Medium     |
 | Extra Long Factorial | [Extra Long Factorial](https://www.hackerrank.com/challenges/extra-long-factorials/problem)           | [Solution](Algorithms/Implementation/extra_long_factorial) | Medium     |
 | Pairs                | [Pairs](https://www.hackerrank.com/challenges/pairs/problem)                                          | [Solution](Algorithms/Implementation/pairs)                | Medium     |
