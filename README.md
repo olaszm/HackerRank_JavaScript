@@ -43,6 +43,7 @@
 | Lisa's Workbook      | [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem)                        | [Solution](Algorithms/Implementation/lisas_workbook)       | Easy       |
 | Jumping on Clouds    | [Jumping on Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)    | [Solution](Algorithms/Implementation/jumping_on_clouds)    | Easy       |
 | Service Lane         | [Service Lane](https://www.hackerrank.com/challenges/service-lane/problem)                            | [Solution](Algorithms/Implementation/service_lane)         | Easy       |
+| Birthday Chocholate  | [Birthday Chocholate](https://www.hackerrank.com/challenges/the-birthday-bar/problem)                 | [Solution](Algorithms/Implementation/birthday_chocolate)   | Easy       |
 | Encryption           | [Encryption](https://www.hackerrank.com/challenges/encryption/problem)                                | [Solution](Algorithms/Implementation/encryption)           | Medium     |
 | Extra Long Factorial | [Extra Long Factorial](https://www.hackerrank.com/challenges/extra-long-factorials/problem)           | [Solution](Algorithms/Implementation/extra_long_factorial) | Medium     |
 | Pairs                | [Pairs](https://www.hackerrank.com/challenges/pairs/problem)                                          | [Solution](Algorithms/Implementation/pairs)                | Medium     |
