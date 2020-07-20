@@ -47,3 +47,13 @@
 | Encryption           | [Encryption](https://www.hackerrank.com/challenges/encryption/problem)                                | [Solution](Algorithms/Implementation/encryption)           | Medium     |
 | Extra Long Factorial | [Extra Long Factorial](https://www.hackerrank.com/challenges/extra-long-factorials/problem)           | [Solution](Algorithms/Implementation/extra_long_factorial) | Medium     |
 | Pairs                | [Pairs](https://www.hackerrank.com/challenges/pairs/problem)                                          | [Solution](Algorithms/Implementation/pairs)                | Medium     |
+
+#### Data Structures
+
+##### Arrays
+
+| Name          | Problem                                                                      | Solution                                                   | Difficulty |
+| ------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
+| Arrays-DS     | [Array-DS](https://www.hackerrank.com/challenges/arrays-ds/problem)          | [Solution](Algorithms/Data_Structures/Array/arrays)        | Easy       |
+| 2D Array-DS   | [2D Array-DS](https://www.hackerrank.com/challenges/2d-array/problem)        | [Solution](Algorithms/Data_Structures/Array/2d_array)      | Easy       |
+| Sparse Arrays | [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem) | [Solution](Algorithms/Data_Structures/Array/sparse_arrays) | Medium     |
