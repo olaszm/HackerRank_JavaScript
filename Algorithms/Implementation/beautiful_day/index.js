@@ -7,7 +7,8 @@ function beautifulDays(i, j, k) {
     }
   }
   console.log(arr.length);
+  return arr.length
 }
 
-beautifulDays(20, 23, 6);
-beautifulDays(13, 45, 3);
+beautifulDays(20, 23, 6); // 2
+beautifulDays(13, 45, 3); // 33

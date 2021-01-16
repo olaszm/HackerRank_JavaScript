@@ -5,3 +5,6 @@ function utopianTree(n) {
   }
   return h;
 }
+
+
+utopianTree(10) // 64
